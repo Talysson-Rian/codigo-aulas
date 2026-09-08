@@ -1,0 +1,7 @@
+npm init -y
+trocar o "type" pra "module"
+criar um index.js
+npm i express ejs
+
+oq é endpoint
+$ npm i -g nodemon
